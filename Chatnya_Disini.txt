@@ -1,2 +1,3 @@
 n : test
 v : Suruh iin ubah-ubah sedikit, kayak ubah nama variabelnya aja nda papa
+i : Nell ko b ubah juga e
